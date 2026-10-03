@@ -1,2 +1,0 @@
-# MU-Team
-Development Team
